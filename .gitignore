@@ -1,0 +1,35 @@
+.env
+chroma_db/
+notes/
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.venv/
+venv/
+env/
+node_modules/
+dist/
+frontend/.vite/
+
+# Logs and analysis artifacts
+*.log
+AnalysisLog.txt
+FastAnalysis.txt
+FinalReport.txt
+*.txt
+
+# Windows
+NUL
+Thumbs.db
+
+# Test cache
+.pytest_cache/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+
+# Claude internal
+CLAUDE.md
